@@ -1,4 +1,4 @@
-**# runway-risk-scorer-Agentic-Pipeline-**# Agentic Runway-Risk Intelligence Pipeline
+# Agentic Runway-Risk Intelligence Pipeline
 
 An AI agent gathers the evidence; a deterministic pipeline validates, scores, and
 halts for a human. This is the production-grade extension of the delivered
