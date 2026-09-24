@@ -40,10 +40,11 @@ except ImportError:
 # --- config: which vendors to track, and which public feeds to read -----------
 # Edit these freely. company_id is the stable slug; aliases are what we match in text.
 TRACKED_VENDORS = {
-    "anthropic":     ["anthropic", "claude"],
-    "cohere":        ["cohere"],
-    "mistral":       ["mistral ai", "mistral"],
-    "hugging-face":  ["hugging face", "huggingface"],
+    "openai":       ["openai", "chatgpt", "sam altman"],
+    "anthropic":    ["anthropic", "claude"],
+    "google-ai":    ["gemini", "deepmind", "google ai"],
+    "nvidia":       ["nvidia"],
+    "meta-ai":      ["meta ai", "llama"],
 }
 
 # Public tech-news RSS feeds. No API key needed.
