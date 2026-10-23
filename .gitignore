@@ -219,3 +219,4 @@ __marimo__/
 
 # generated fetch output (regenerated every run)
 data/raw/
+data/extracted/
