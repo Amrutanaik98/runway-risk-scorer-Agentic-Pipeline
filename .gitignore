@@ -221,3 +221,4 @@ __marimo__/
 data/raw/
 data/extracted/
 data/deduped/
+*.duckdb
