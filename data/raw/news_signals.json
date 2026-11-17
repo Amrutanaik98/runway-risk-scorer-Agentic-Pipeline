@@ -1,0 +1,35 @@
+[
+  {
+    "signal_id": "news-fc66b0b5933a",
+    "company_id": "openai",
+    "signal_type": "news_mention",
+    "signal_title": "OpenAI safety employee resigns, claiming the company\u2019s \u2018culture is broken\u2019",
+    "signal_value": "neutral",
+    "occurred_date": "2026-10-03",
+    "source_url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+    "score": 40,
+    "validated_by": null
+  },
+  {
+    "signal_id": "news-907765f9b1d2",
+    "company_id": "openai",
+    "signal_type": "news_mention",
+    "signal_title": "It\u2019s\u00a0not AI anymore,\u00a0it\u2019s\u00a0\u2018super intelligence\u2019 (according to the White House)",
+    "signal_value": "neutral",
+    "occurred_date": "2026-10-02",
+    "source_url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "score": 40,
+    "validated_by": null
+  },
+  {
+    "signal_id": "news-ea518ad8e6a6",
+    "company_id": "openai",
+    "signal_type": "news_mention",
+    "signal_title": "An AI couldn\u2019t beat humans at StarCraft, so it decided to cheat",
+    "signal_value": "neutral",
+    "occurred_date": "2026-10-04",
+    "source_url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+    "score": 40,
+    "validated_by": null
+  }
+]
